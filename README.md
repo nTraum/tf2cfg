@@ -9,7 +9,7 @@ Launch Options
 Questions
 ---------
 ### Where is your `config.cfg`?
-My `config.cfg` remains untouched, instead I use `custom.cfg` to define my custom binds.
+My `config.cfg` remains untouched, instead I use `custom.cfg` to define custom binds and settings.
 
 ### What hitsound are you using?
 The [Quake 3 hitsound](http://tf2dingalings.com/sound/details/256).
